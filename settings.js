@@ -7,7 +7,7 @@ const __filename = fileURLToPath(import.meta.url);
 
 /*
 	* Create By Kostradnanda 
-	* Follow https://github.com/Kostrad111 
+	* Follow https://github.com/Andikakostradnanda 
 	* Youtube: @Kostradnanda 
 */
 
@@ -38,8 +38,8 @@ global.fake = {
 
 global.my = {
 	yt: "https://youtube.com/c/Kostradnanda",
-	gh: "https://github.com/Kostrad111",
-	gc: "No File",
+	gh: "https://github.com/Andikakostradnanda",
+	gc: "https://teknologimaniaks.blogspot.com",
 	ch: "No File"
 }
 
