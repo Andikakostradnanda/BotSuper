@@ -6,9 +6,9 @@ import { fileURLToPath } from 'url';
 const __filename = fileURLToPath(import.meta.url);
 
 /*
-	* Create By Naze
-	* Follow https://github.com/nazedev
-	* Whatsapp : https://whatsapp.com/channel/0029VaWOkNm7DAWtkvkJBK43
+	* Create By Kostradnanda 
+	* Follow https://github.com/Kostrad111 
+	* Youtube: @Kostradnanda 
 */
 
 //~~~~~~~~~~~~< GLOBAL SETTINGS >~~~~~~~~~~~~\\
@@ -16,7 +16,7 @@ const __filename = fileURLToPath(import.meta.url);
 global.owner = ["62882000585233"] // ['6288971803342','628'] 2 owner atau lebih
 global.author = 'Kostradnanda'
 global.botname = 'AK BOT'
-global.packname = 'Bot WhatsApp'
+global.packname = 'AK Kostradnanda'
 global.timezone = 'Asia/Jakarta' // Ganti pakai command .settimezone
 global.locale = 'en' // Ganti pakai command .setlocale
 global.listprefix = ["+","!","."]
@@ -92,7 +92,7 @@ global.jadwalSholat = {
 	Isya: '19:00'
 }
 
-global.badWords = ["dongo","konsol"] // input kata-kata toxic yg lain. ex: ['dongo','dongonya']
+global.badWords = ["dongo","kontol"] // input kata-kata toxic yg lain. ex: ['dongo','dongonya']
 global.chatLength = 1000
 
 fs.watchFile(__filename, async () => {
